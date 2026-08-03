@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**ggtyl/ggtyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Computer Science graduate interested in software engineering and full-stack web development, with experience building web applications through academic projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in backend development, software design, and building maintainable applications.
+- Enjoy learning new technologies and applying them through projects.
+
+## Technical Skills
+
+### Languages
+
+TypeScript · Java · Python
+
+### Frontend
+
+React · Angular
+
+### Backend
+
+Node.js · NestJS · Spring Boot
+
+### Database
+
+PostgreSQL
+
+## Featured Projects
+
+### Tournado
+
+A full-stack tournament management application for managing single-elimination competitions, including tournament creation, participant management, bracket generation, and match progression.
+
+Built with React, NestJS, TypeScript, and PostgreSQL.
+
+### Tournament Bracket Optimisation Tool
+
+A search-based software engineering project that applies Random Search and Genetic Algorithms to improve fairness in single-elimination tournament brackets.
+
+Built with Python, focusing on optimisation algorithms, experimentation, and statistical analysis.
