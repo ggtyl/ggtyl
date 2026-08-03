@@ -46,7 +46,7 @@ A full-stack tournament management application for managing single-elimination c
 
 **Tech:** React · NestJS · TypeScript · PostgreSQL
 
-### Tournament Bracket Optimisation Tool
+### [Tournament Bracket Optimisation Tool](https://github.com/ggtyl/ise-toolbuild)
 
 A search-based software engineering project applying Random Search and Genetic Algorithms to improve fairness in single-elimination tournament brackets.
 
